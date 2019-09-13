@@ -4,6 +4,6 @@
 
 ** Treehouse | Front End Techdegree Project: 5 Responsive Image gallery **
 
-// VIEW PROJECT https://artisah.github.io/techdegree-project2-portfolio/
+// VIEW PROJECT https://artisah.github.io/techdegree-project5-image-gallery/
 
 INSTRUCTIONS : In this project you'll build a responsive, image gallery. Using the supplied mockup files you'll build a mobile, tablet and desktop version of the website using media queries, and a "mobile-first" approach.
