@@ -6,4 +6,6 @@
 
 // VIEW PROJECT https://artisah.github.io/techdegree-project5-image-gallery/
 
-INSTRUCTIONS : In this project you'll build a responsive, image gallery. Using the supplied mockup files you'll build a mobile, tablet and desktop version of the website using media queries, and a "mobile-first" approach.
+Instructions : In this project, you will create an interactive photo gallery using JavaScript and jQuery. Thumbnails and photos will be provided with descriptions.
+
+At the top of the page you'll have a search area where photos will hide and show depending on user input. When the user clicks on a thumbnail the photo will display in a lightbox. There should be a back and previous buttons to cycle through photos.
